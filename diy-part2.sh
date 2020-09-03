@@ -13,4 +13,5 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 git clone https://github.com/fw876/helloworld.git package/lean/luci-app-ssr-plus
-git clone https://github.com/yiguihai/luci-app-k3screenctrl package/lean/luci-app-k3screenctrl
+git clone https://github.com/yiguihai/luci-app-k3screenctrl.git package/lean/luci-app-k3screenctrl
+git clone https://github.com/vernesong/OpenClash.git package/lean/OpenClash
