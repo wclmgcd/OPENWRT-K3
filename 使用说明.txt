@@ -1,3 +1,10 @@
+Ctrl+F  搜索
+Ctrl+A  全选
+Ctrl+C  复制
+Ctrl+V  粘贴
+
+
+
 内核更改
 CONFIG_LINUX_4_19=y
 CONFIG_LINUX_5_4=y
