@@ -1,1 +1,6 @@
+内核更改
+CONFIG_LINUX_4_19=y
+CONFIG_LINUX_5_4=y
 
+4047--kp
+CONFIG_PACKAGE_luci-app-koolproxy=y
