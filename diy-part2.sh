@@ -15,7 +15,7 @@
 #rm -rf package/lean/k3screenctrl
 git clone https://github.com/fw876/helloworld.git package/lean/luci-app-ssr-plus
 git clone https://github.com/wclmgcd/luci-app-koolproxy.git package/lean/luci-app-koolproxy
-git clone https://github.com/project-lede/luci-app-godproxy.git package/lean/luci-app-godproxy
+git clone https://github.com/wclmgcd/luci-app-godproxy.git package/lean/luci-app-godproxy
 #mkdir package/k3
 git clone https://github.com/lwz322/luci-app-k3screenctrl.git package/k3/luci-app-k3screenctrl
 git clone https://github.com/lwz322/k3screenctrl_build.git package/k3/k3screenctrl_build
